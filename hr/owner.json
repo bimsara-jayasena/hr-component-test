@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-cumulus-440119-j7",
+  "private_key_id": "7a269b4d85483f64e9dde925e0cc24dc78965a59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClhWFqIU3f2mlb\nyP5Md4av3kmCLbk2Rbh+OpeDaC+nUGPpwxhSb5IAnTgsJwvDYYmtzP0pHXq5Nhx+\nfUH4np8MjUFigdtDkxK/LbMQ6AqFILe+IadPg2vR5xQNaBwdYMfbodf66/TwM/hD\n5kRULmYkfywAs7JSsDZFJM51XE8gm1wjmyDHE3K+PS9vIsBlVDz3C+6XCWCR5nwX\nDb8xpvU071t148TB300ML+ONZS4HOjI4oWB/3PE1ijXR6Sym5B3REPvVEJ9hKnFf\nwTV+PmN5rb767zxdtS9jmqKbg6wuLG89OsYI8oIaorAMrTvdhakTsxqjenjj7kuS\noZJsaOlvAgMBAAECggEAMfq1cIN/7UEZITLuvo406DPZxGokC+Q/kjYE/BPgl8fp\nc3OKi5HO50qR5JshrSxtk0Jbiyewn+5b6kHOQtE6u2KHxMPrPltRhNK6yDcYvhwj\n/1BQIe1QCECbSHUQUDqh/oq/GbBX9JPsuiv0o+qiwxB3a/rWtKsqp/Q2Ny/ZYMGs\nQ1sMHrPZAf0qzDtyhZ8unMJueFTGVvmxOJd9ESL91bHZCvNw1BynNLkSOjpcTDT/\nmcUXB0SnCnhSZBgDevuXkL8h5JgY4z8qoHYYdqIGPCz1Gk2jNqq8ejH11aveKG6w\nOmPG6k7iqcWrEn2WXTkbUmXun4k81VDn2+nBfCkKOQKBgQDWqZ/vvlYCEwIbGKIk\nHKOCk6qeYoiaTk8djYp8Hb3o9tQB/4FF19rDq10FEzR0PLPQimwu4nEVYVexV404\nQxddrnlG3+hlsElfghtiWr6Tiq7zl7LkNEj/aPkPHzueINHDnuG552DVNibhdgl8\ntfbUmh0GiMg43qZbonSIWfSmmwKBgQDFZTAy9wR3ExUjttZRXi6Bpkl7ONIVoe/G\nT1dViwC40b3245nn0mO0ycYWpMUF0wvWNx5ZwI+ZI8ciMbPjsFthjVktNKzlSfSy\nMUKDKzqd4TcntkCh8pKUvf4BwsNkvFJyeiN5Nd50KFTHlnaCfCFrS3ozPIBI3K1A\n5aM/bFfLvQKBgQC4bHkVL3CTTaNkhjBfWB9+gsF2W+9Cqv67xCvzYFYVvWH96Xc1\n+zJfI23Ce3J4XuKZyyMQ0MkY9k2x9idE7Bc6DDjzlFEEdIVFQfGm+ZF8Dw0qCO3P\ns7/3d0drH4lH3Kh7KZiC8G+4HlMfJxsVgvvyQgmn4IIsodVJKvR1ZNuU+wKBgHjV\nhnnMSIlzvv8Lz4ojsyheWKD7mW7woEyvCPEulBSPIFBf5zjHy41B7uaxmoIEPTy2\npPegLsc55Y6DCnGY5XeEBVDs6+G4MfhauzJ8Zfd7hD3lDQ+V5DD1VOZTCTVDKt00\n8z4hwbktbyh2bLlXr0V1AKsYoBb6L3yIljQe6GepAoGBAKiJcfCtFY6ecvKOopEp\n1JbntcelxMCTi5DhkVovgbUG10HowCMpKZrIoQLD3PrexKxq9X5hHPrg8cYpp1Io\njLncgdNn7xKefoiX77LkOBO5+tT6BUkMfcABQQrdsIbIQFqy4gybHz3u5d87tvCM\nIWTOPyVWUIrn6BIbF0yWMZ0B\n-----END PRIVATE KEY-----\n",
+  "client_email": "owneraccount@stellar-cumulus-440119-j7.iam.gserviceaccount.com",
+  "client_id": "107807793060575374088",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owneraccount%40stellar-cumulus-440119-j7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

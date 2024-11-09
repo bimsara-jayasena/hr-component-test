@@ -27,7 +27,7 @@ export default function News() {
             <div style={{border:'1px solid dodgerblue',width:'fit-content'}}>
             <h2>Job Title: {job.title}</h2>
             <img src={`data:image/jpeg;base64,${job.poster}`} width={'500px'} height={'500px'}/>
-        <Link to={`/Apply/${job.id}`} >Apply Now</Link>
+        <Link to={`/Apply/${job.id}`} >Apply Now !</Link>
             </div>
          
         );
